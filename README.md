@@ -89,4 +89,4 @@ This portfolio was built to:
 ---
 
 ## Live demo:
-link :http://127.0.0.1:3000/index.html
+link : [View Project](https://madhushankarkr-cmd.github.io/My-Portfolio/)
